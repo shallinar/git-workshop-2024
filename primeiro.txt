@@ -1,1 +1,2 @@
 Meu primeiro commit
+teste do rebase. comment #2
